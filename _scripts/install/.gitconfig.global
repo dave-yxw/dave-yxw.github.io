@@ -1,0 +1,9 @@
+[user]
+        name = dave-yxw
+        email = dave.yxw@gmail.com
+        signingkey = ~/putty.ppk
+[core]
+[credential]
+        helper = store
+[remote "origin"]
+	puttykeyfile = ~/putty.ppk

@@ -1,0 +1,6 @@
+/_site/
+Gemfile.lock
+/test/
+/mt_report/*-0/
+/mt_report/*test_*/
+/_data/*/*test_*

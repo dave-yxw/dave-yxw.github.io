@@ -1,0 +1,31 @@
+
+{%- assign account = include.jdata | default: "/" -%}
+
+last_update: {{account.update_time}}
+
+## 账户汇总
+
+当日平仓盈利: {{account.closed_return}}$({{account.closed_profit}}%)
+
+持仓盈利: {{account.open_return}}$({{account.open_profit}}%)
+
+| balance(结余$)  |  equity(净资产$)  |  margin(保证金$)  |
+| -------  |  -------  |  -------  | 
+| {{account.account.balance}} | {{account.account.equity}} | {{account.account.margin}} |
+
+
+## 当日平仓
+
+|  order |  symbol  |  type  |  vol  |  opentime  |  closetime  |  commission/$  |  swap/$  |  profit/$  |
+| ------- | -------  |  -------  |  -------  |  -------  |  -------  |  ------- | -------  | -------  |
+{% for order in account.closed_positions %}| {{ order.order_id }} | {{ order.symbol}} |  {{ order.type  }} |  {{ order.vol }} |  {{ order.opentime }} |  {{ order.closetime  }}|  {{ order.commission }} | {{ order.swap  }} | {{ order.profit  }} |
+{% endfor %}
+
+
+## 持仓
+
+| symbol  |  type  |  vol  |  commission/$ | swap/$  | profit/$  |
+| -------  |  -------  |  -------  |  -------  |  -------  |  ------- |
+{% for order in account.open_positions %}| {{ order.symbol}} |  {{ order.type  }} |  {{ order.vol }} |  {{ order.commission }} | {{ order.swap  }} | {{ order.profit  }} |
+{% endfor %}
+

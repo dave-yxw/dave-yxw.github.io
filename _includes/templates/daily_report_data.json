@@ -1,0 +1,15 @@
+{
+	"update_time":"_update_time",
+	"date":"_date",
+	"closed_positions": [_closed_positions],
+	"closed_return":%.2f,
+	"closed_profit":%.2f,
+	"open_positions": [_open_positions],
+	"open_return":%.2f,
+	"open_profit":%.2f,
+	"account":{
+		"balance":%.2f,
+		"margin":%.2f,
+		"equity":%.2f
+	}
+}
