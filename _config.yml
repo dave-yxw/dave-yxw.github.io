@@ -24,3 +24,5 @@ plugins:
   - jekyll-avatar
   - jekyll-mentions
   - jekyll-gist
+
+theme: jekyll-theme-minimal
