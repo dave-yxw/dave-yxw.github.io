@@ -1,6 +1,7 @@
 title: 竹节新馨翠的博客
 lang: en
-description: 数学系的伪数学爱好者，投资小白，鼻咽癌患者，想给世界留一点美丽
+## 会显示在网站首页的title中，慎重
+description: 伪数学大神，投资小白，鼻咽癌患者
 
 ## local method ##
 # theme: jekyll-rtd-theme

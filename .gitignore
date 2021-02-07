@@ -4,3 +4,4 @@ Gemfile.lock
 /mt_report/*-0/
 /mt_report/*test_*/
 /_data/*/*test_*
+/_data/account_hist/*.csv
