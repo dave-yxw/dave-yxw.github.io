@@ -38,14 +38,15 @@ function GetQueryValue(queryName) {
 var jsfile = GetQueryValue('account')+'/'+GetQueryValue('year')+'/equity_hist.json';
 $.get(jsfile, function (data) {
     option = {
-        legend: {data:['结余','净值','每日利润','年度累计利润']},
+        legend: {data:['结余','净值','每日利润','累计利润']},
         tooltip: {},
         toolbox: {
             left: 'center'
         },
         xAxis: [
-            {type: 'time', gridIndex: 0, name:'date'}
+            {type: 'time', gridIndex: 0, name:'日期', axisLabel: {rotate: 50}}
         ],
+        // 第一个option里必须要有个默认的yAxis设置
         yAxis: [
             {type: 'value', gridIndex: 0, name: '美元'}
         ],
@@ -55,9 +56,12 @@ $.get(jsfile, function (data) {
             // dimensions: columns,
             // source: data
         }
-    }
+    };
 
     series_opt1 = {
+        yAxis: [
+            {type: 'value', gridIndex: 0, name: '美元', scale: true}
+        ],
         series: [
             {
                 type: 'line',
@@ -83,9 +87,14 @@ $.get(jsfile, function (data) {
     };
 
     series_opt2 = {
+        yAxis: [
+            {type: 'value', name: '每日利润'}
+            ,{type: 'value', name: '累计利润'}
+        ],
         series: [
             {
                 type: 'bar',
+                yAxisIndex: 0,
                 name: '每日利润',
                 encode: {
                     x: 'date',
@@ -95,7 +104,8 @@ $.get(jsfile, function (data) {
             },
             {
                 type: 'line',
-                name: '年度累计利润',
+                name: '累计利润',
+                yAxisIndex: 1,
                 encode: {
                     x: 'date',
                     y: 'cum_profit'
@@ -104,7 +114,7 @@ $.get(jsfile, function (data) {
             }
         ]
     };
-
+	
     myChart1.setOption(option);
     myChart1.setOption(series_opt1);
     myChart2.setOption(option);

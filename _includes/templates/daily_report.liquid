@@ -16,16 +16,25 @@ last_update: {{account.update_time}}
 
 ## 当日平仓
 
+{% assign num=account.closed_positions|size %}
+{% if num > 0 %}
 |  order |  symbol  |  type  |  vol  |  opentime  |  closetime  |  commission/$  |  swap/$  |  profit/$  |
 | ------- | -------  |  -------  |  -------  |  -------  |  -------  |  ------- | -------  | -------  |
 {% for order in account.closed_positions %}| {{ order.order_id }} | {{ order.symbol}} |  {{ order.type  }} |  {{ order.vol }} |  {{ order.opentime }} |  {{ order.closetime  }}|  {{ order.commission }} | {{ order.swap  }} | {{ order.profit  }} |
 {% endfor %}
-
+{% else %}
+无
+{% endif %}
 
 ## 持仓
 
+{% assign num = account.open_positions | size %}
+{% if num > 0 %}
 | symbol  |  type  |  vol  |  commission/$ | swap/$  | profit/$  |
 | -------  |  -------  |  -------  |  -------  |  -------  |  ------- |
 {% for order in account.open_positions %}| {{ order.symbol}} |  {{ order.type  }} |  {{ order.vol }} |  {{ order.commission }} | {{ order.swap  }} | {{ order.profit  }} |
 {% endfor %}
+{% else %}
+无
+{% endif %}
 
