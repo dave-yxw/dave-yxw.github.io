@@ -88,7 +88,7 @@ for broker_account in account_list:
     # 从total_d中采集完整数据
     # 纯交易利润，剔除了出入金的问题
     total_d['profit'] = total_d['closed_return'] + total_d['open_return'] - total_d['open_return'].shift(1).fillna(0)
-    total_d['date'] = pd.to_datetime(total_d['date'])
+    total_d['date'] = pd.to_datetime(total_d['date']).map(lambda t: t.tz_localize(tz='Asia/Shanghai'))   # todo, timezone=utc?
     total_d['year'] = total_d.date.map(lambda d: d.year)
     years = set(pd.to_datetime(new_d.date).map(lambda d: d.year).drop_duplicates())
     for year in years:
@@ -101,6 +101,6 @@ for broker_account in account_list:
         year_d['cum_profit_ratio'] = year_d['cum_profit']/init_equity * 100
         # 以json格式输出到年度的文件目录下, todo: date的格式需要与echarts协调好，格式，文件地址
 
-        # open(p + "/%(year)d/euity_hist.json" % config, "w", encoding='utf8')\
+        # open(p + "/%(year)d/equity_hist.json" % config, "w", encoding='utf8')\
         #     .write(year_d.to_json(orient="split", index=False).replace("],", "],\n"))
-        year_d.to_json(p + "/%(year)d/euity_hist.json" % config)
+        year_d.to_json(p + "/%(year)d/equity_hist.json" % config, orient='split')
