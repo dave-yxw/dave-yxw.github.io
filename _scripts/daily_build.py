@@ -26,7 +26,7 @@ hist_columns = ['date', 'balance', 'margin', 'equity', 'open_return', 'closed_re
 def create_dir(p, c):
     if not os.path.exists(p):
         os.mkdir(p)
-        open(p+"readme.md", "w", encoding="utf8").write(c)
+        open(p+"README.md", "w", encoding="utf8").write(c)
 
 
 for broker_account in account_list:
