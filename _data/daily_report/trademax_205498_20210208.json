@@ -1,0 +1,29 @@
+{
+	"update_time":"2021.02.09 00:00",
+	"date":"2021.02.08",
+	"closed_positions": [
+		{"order_id":73802620,"symbol":"GBPUSD.p","type":"buy","vol":0.01,"opentime":"2021.02.04 16:45:13","closetime":"2021.02.05 02:36:07","commission":-0.07,"swap":-0.04,"profit":1.84},
+		{"order_id":73824575,"symbol":"GBPUSD.p","type":"buy","vol":0.01,"opentime":"2021.02.05 12:49:32","closetime":"2021.02.05 15:35:11","commission":-0.07,"swap":0.00,"profit":1.90}],
+	"closed_return":3.56,
+	"closed_profit":0.04,
+	"open_positions": [
+		{"order_id":73858983,"symbol":"GBPUSD.p","type":"buy","vol":0.02,"opentime":"2021.02.08 12:42:00","closetime":"0","commission":-0.14,"swap":0.00,"profit":4.68},
+		{"order_id":73856143,"symbol":"GBPUSD.p","type":"buy","vol":0.01,"opentime":"2021.02.08 10:46:41","closetime":"0","commission":-0.07,"swap":0.00,"profit":0.33},
+		{"order_id":73792093,"symbol":"AUDUSD.p","type":"sell","vol":0.01,"opentime":"2021.02.04 13:56:06","closetime":"0","commission":-0.07,"swap":-0.06,"profit":-9.43},
+		{"order_id":73818306,"symbol":"AUDUSD.p","type":"sell","vol":0.02,"opentime":"2021.02.05 08:48:26","closetime":"0","commission":-0.14,"swap":-0.06,"profit":-21.02},
+		{"order_id":73822515,"symbol":"AUDUSD.p","type":"sell","vol":0.04,"opentime":"2021.02.05 11:04:28","closetime":"0","commission":-0.28,"swap":-0.14,"profit":-33.56},
+		{"order_id":73835687,"symbol":"AUDUSD.p","type":"sell","vol":0.08,"opentime":"2021.02.05 16:36:27","closetime":"0","commission":-0.56,"swap":-0.26,"profit":-50.24},
+		{"order_id":73844735,"symbol":"AUDUSD.p","type":"sell","vol":0.16,"opentime":"2021.02.08 00:18:17","closetime":"0","commission":-1.12,"swap":-0.27,"profit":-58.88},
+		{"order_id":73575672,"symbol":"EURUSD.p","type":"sell","vol":0.01,"opentime":"2021.01.28 14:16:56","closetime":"0","commission":-0.07,"swap":0.00,"profit":5.67},
+		{"order_id":73820408,"symbol":"EURUSD.p","type":"sell","vol":0.02,"opentime":"2021.02.05 10:16:28","closetime":"0","commission":-0.14,"swap":0.00,"profit":-15.24},
+		{"order_id":73830062,"symbol":"EURUSD.p","type":"sell","vol":0.04,"opentime":"2021.02.05 15:32:38","closetime":"0","commission":-0.28,"swap":0.00,"profit":-23.84},
+		{"order_id":73844602,"symbol":"EURUSD.p","type":"sell","vol":0.08,"opentime":"2021.02.08 00:01:18","closetime":"0","commission":-0.56,"swap":0.01,"profit":-11.68}],
+	"open_return":-217.42,
+	"open_profit":-2.59,
+	"account":{
+		"balance":8396.36,
+		"margin":104.37,
+		"equity":10167.94
+	}
+}
+
