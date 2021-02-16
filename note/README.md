@@ -6,4 +6,4 @@ sort: 2
 
 something wrong
 
-{% include list.liquid all=true %}
+{% include common/core/list_dir.liquid %}
