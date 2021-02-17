@@ -1,0 +1,27 @@
+{
+	"update_time":"2021.02.18 00:00",
+	"date":"2021.02.17",
+	"closed_positions": [],
+	"closed_return":0.00,
+	"closed_profit":0.00,
+	"open_positions": [
+		{"order_id":73889677,"symbol":"EURUSD.p","type":"sell","vol":0.16,"opentime":"2021.02.09 11:09:40","closetime":"0","commission":-1.12,"swap":0.09,"profit":35.04},
+		{"order_id":73844602,"symbol":"EURUSD.p","type":"sell","vol":0.08,"opentime":"2021.02.08 00:01:18","closetime":"0","commission":-0.56,"swap":0.08,"profit":10.32},
+		{"order_id":73830062,"symbol":"EURUSD.p","type":"sell","vol":0.04,"opentime":"2021.02.05 15:32:38","closetime":"0","commission":-0.28,"swap":0.01,"profit":-12.84},
+		{"order_id":73820408,"symbol":"EURUSD.p","type":"sell","vol":0.02,"opentime":"2021.02.05 10:16:28","closetime":"0","commission":-0.14,"swap":0.00,"profit":-9.78},
+		{"order_id":73575672,"symbol":"EURUSD.p","type":"sell","vol":0.01,"opentime":"2021.01.28 14:16:56","closetime":"0","commission":-0.07,"swap":0.00,"profit":8.41},
+		{"order_id":73792093,"symbol":"AUDUSD.p","type":"sell","vol":0.01,"opentime":"2021.02.04 13:56:06","closetime":"0","commission":-0.07,"swap":-0.17,"profit":-14.10},
+		{"order_id":73818306,"symbol":"AUDUSD.p","type":"sell","vol":0.02,"opentime":"2021.02.05 08:48:26","closetime":"0","commission":-0.14,"swap":-0.31,"profit":-30.36},
+		{"order_id":73822515,"symbol":"AUDUSD.p","type":"sell","vol":0.04,"opentime":"2021.02.05 11:04:28","closetime":"0","commission":-0.28,"swap":-0.61,"profit":-52.24},
+		{"order_id":73835687,"symbol":"AUDUSD.p","type":"sell","vol":0.08,"opentime":"2021.02.05 16:36:27","closetime":"0","commission":-0.56,"swap":-1.19,"profit":-87.60},
+		{"order_id":73844735,"symbol":"AUDUSD.p","type":"sell","vol":0.16,"opentime":"2021.02.08 00:18:17","closetime":"0","commission":-1.12,"swap":-2.18,"profit":-133.60},
+		{"order_id":73988993,"symbol":"AUDUSD.p","type":"sell","vol":0.32,"opentime":"2021.02.12 18:10:58","closetime":"0","commission":-2.24,"swap":-1.23,"profit":-11.20}],
+	"open_return":-310.04,
+	"open_profit":-3.62,
+	"account":{
+		"balance":8560.27,
+		"margin":121.27,
+		"equity":10214.87
+	}
+}
+
