@@ -1,0 +1,30 @@
+{
+	"update_time":"2021.02.19 00:00",
+	"date":"2021.02.18",
+	"closed_positions": [
+		{"order_id":73575672,"symbol":"EURUSD.p","type":"sell","vol":0.01,"opentime":"2021.01.28 14:16:56","closetime":"2021.02.17 17:54:03","commission":-0.07,"swap":0.00,"profit":8.41},
+		{"order_id":73820408,"symbol":"EURUSD.p","type":"sell","vol":0.02,"opentime":"2021.02.05 10:16:28","closetime":"2021.02.17 17:54:03","commission":-0.14,"swap":0.00,"profit":-9.78},
+		{"order_id":73830062,"symbol":"EURUSD.p","type":"sell","vol":0.04,"opentime":"2021.02.05 15:32:38","closetime":"2021.02.17 17:54:03","commission":-0.28,"swap":0.01,"profit":-12.84},
+		{"order_id":73844602,"symbol":"EURUSD.p","type":"sell","vol":0.08,"opentime":"2021.02.08 00:01:18","closetime":"2021.02.17 17:54:02","commission":-0.56,"swap":0.08,"profit":10.32},
+		{"order_id":73889677,"symbol":"EURUSD.p","type":"sell","vol":0.16,"opentime":"2021.02.09 11:09:40","closetime":"2021.02.17 10:57:25","commission":-1.12,"swap":0.09,"profit":35.04}],
+	"closed_return":29.16,
+	"closed_profit":0.34,
+	"open_positions": [
+		{"order_id":74103958,"symbol":"AUDUSD.p","type":"sell","vol":0.64,"opentime":"2021.02.18 12:01:29","closetime":"0","commission":-4.48,"swap":0.00,"profit":29.44},
+		{"order_id":74109255,"symbol":"AUDUSD.p","type":"sell","vol":0.64,"opentime":"2021.02.18 15:04:30","closetime":"0","commission":-4.48,"swap":0.00,"profit":10.88},
+		{"order_id":74112634,"symbol":"AUDUSD.p","type":"sell","vol":0.64,"opentime":"2021.02.18 16:13:26","closetime":"0","commission":-4.48,"swap":0.00,"profit":27.52},
+		{"order_id":73792093,"symbol":"AUDUSD.p","type":"sell","vol":0.01,"opentime":"2021.02.04 13:56:06","closetime":"0","commission":-0.07,"swap":-0.21,"profit":-15.88},
+		{"order_id":73818306,"symbol":"AUDUSD.p","type":"sell","vol":0.02,"opentime":"2021.02.05 08:48:26","closetime":"0","commission":-0.14,"swap":-0.39,"profit":-33.92},
+		{"order_id":73822515,"symbol":"AUDUSD.p","type":"sell","vol":0.04,"opentime":"2021.02.05 11:04:28","closetime":"0","commission":-0.28,"swap":-0.76,"profit":-59.36},
+		{"order_id":73835687,"symbol":"AUDUSD.p","type":"sell","vol":0.08,"opentime":"2021.02.05 16:36:27","closetime":"0","commission":-0.56,"swap":-1.50,"profit":-101.84},
+		{"order_id":73844735,"symbol":"AUDUSD.p","type":"sell","vol":0.16,"opentime":"2021.02.08 00:18:17","closetime":"0","commission":-1.12,"swap":-2.80,"profit":-162.08},
+		{"order_id":73988993,"symbol":"AUDUSD.p","type":"sell","vol":0.32,"opentime":"2021.02.12 18:10:58","closetime":"0","commission":-2.24,"swap":-2.47,"profit":-68.16}],
+	"open_return":-399.38,
+	"open_profit":-4.64,
+	"account":{
+		"balance":8614.67,
+		"margin":121.27,
+		"equity":10154.69
+	}
+}
+
