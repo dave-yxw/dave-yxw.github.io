@@ -1,0 +1,28 @@
+{
+	"update_time":"2021.02.25 00:00",
+	"date":"2021.02.24",
+	"closed_positions": [
+		{"order_id":224030287,"symbol":"USDJPY","type":"buy","vol":0.01,"opentime":"2021.02.08 00:18:17","closetime":"2021.02.24 03:25:04","commission":-0.07,"swap":-0.23,"profit":0.83},
+		{"order_id":224045117,"symbol":"USDCHF","type":"buy","vol":0.01,"opentime":"2021.02.08 03:32:29","closetime":"2021.02.23 18:25:01","commission":-0.07,"swap":0.03,"profit":0.95},
+		{"order_id":224981347,"symbol":"USDJPY","type":"buy","vol":0.02,"opentime":"2021.02.17 16:41:27","closetime":"2021.02.24 03:25:03","commission":-0.14,"swap":-0.22,"profit":-7.97},
+		{"order_id":225066857,"symbol":"USDCHF","type":"buy","vol":0.02,"opentime":"2021.02.18 10:03:55","closetime":"2021.02.23 08:29:44","commission":-0.14,"swap":0.00,"profit":-5.16},
+		{"order_id":225080370,"symbol":"USDCHF","type":"buy","vol":0.04,"opentime":"2021.02.18 10:59:24","closetime":"2021.02.23 08:29:43","commission":-0.28,"swap":0.03,"profit":-4.11},
+		{"order_id":225216565,"symbol":"USDCHF","type":"buy","vol":0.08,"opentime":"2021.02.19 09:52:16","closetime":"2021.02.23 08:29:43","commission":-0.56,"swap":0.04,"profit":4.46},
+		{"order_id":225220027,"symbol":"USDJPY","type":"buy","vol":0.04,"opentime":"2021.02.19 10:07:28","closetime":"2021.02.24 03:25:03","commission":-0.28,"swap":-0.20,"profit":-4.51},
+		{"order_id":225511890,"symbol":"USDJPY","type":"buy","vol":0.08,"opentime":"2021.02.23 01:44:08","closetime":"2021.02.24 03:25:03","commission":-0.56,"swap":-0.12,"profit":36.41},
+		{"order_id":225616964,"symbol":"USDCHF","type":"buy","vol":0.02,"opentime":"2021.02.23 17:42:06","closetime":"2021.02.23 18:25:01","commission":-0.14,"swap":0.00,"profit":4.30},
+		{"order_id":225672081,"symbol":"USDCNH","type":"buy","vol":6.40,"opentime":"2021.02.24 03:11:34","closetime":"2021.02.24 16:04:33","commission":-44.80,"swap":0.00,"profit":195.32}],
+	"closed_return":172.81,
+	"closed_profit":1.55,
+	"open_positions": [
+		{"order_id":225392445,"symbol":"USDCNH","type":"buy","vol":2.75,"opentime":"2021.02.22 09:48:39","closetime":"0","commission":-19.25,"swap":-86.18,"profit":-1118.38},
+		{"order_id":225820767,"symbol":"USDCNH","type":"buy","vol":6.40,"opentime":"2021.02.24 18:54:53","closetime":"0","commission":-44.80,"swap":-103.81,"profit":-582.69}],
+	"open_return":-1955.11,
+	"open_profit":-17.25,
+	"account":{
+		"balance":11335.95,
+		"margin":9150.00,
+		"equity":9380.84
+	}
+}
+
