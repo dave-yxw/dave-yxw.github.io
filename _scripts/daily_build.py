@@ -53,6 +53,7 @@ for broker_account in account_list:
     new_d = []
     for idx, row in new_f.iterrows():
         f = row['file']
+        print("parse json ", f)
         json_d = json.load(open(daily_report_dir+f))
         daily_d = json_d['account']
         daily_d['date'] = row['date']  # 20210102, 与json中格式不同
