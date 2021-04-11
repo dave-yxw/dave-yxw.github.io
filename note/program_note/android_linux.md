@@ -34,7 +34,12 @@ termux-setup-storage
 # port不是默认22，用户名和ip都需要查
 ssh u0_a130@192.168.31.208 -p 8022
 </pre>
-- 设置ftp: [pyftpdlib](https://www.cnblogs.com/niansi/p/8232964.html)
+现在已经能用scp, sftp传文件了。
+
+有些ftp软件是支持直接sftp的，用ftprush未能成功用用户名+密码连接，也未能设置密钥方式登录。
+<pre>scp [-P port] user@ip:file_path local_path
+</pre>
+- 设置pyftp: [pyftpdlib](https://www.cnblogs.com/niansi/p/8232964.html)
 <pre>
 pip install pyftpdlib
 cd [ftpdir]
