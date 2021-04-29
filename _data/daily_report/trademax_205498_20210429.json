@@ -1,0 +1,47 @@
+{
+	"update_time":"2021.04.30 00:00",
+	"date":"2021.04.29",
+	"closed_positions": [
+		{"order_id":75871082,"symbol":"AUDUSD.p","type":"buy","vol":0.01,"opentime":"2021.04.27 11:30:08","closetime":"2021.04.29 03:12:31","commission":-0.07,"swap":-0.08,"profit":2.92},
+		{"order_id":75862523,"symbol":"AUDUSD.p","type":"buy","vol":0.01,"opentime":"2021.04.27 04:15:49","closetime":"2021.04.29 03:12:31","commission":-0.07,"swap":-0.08,"profit":1.72},
+		{"order_id":75860341,"symbol":"AUDUSD.p","type":"buy","vol":0.01,"opentime":"2021.04.26 22:30:13","closetime":"2021.04.29 03:12:32","commission":-0.07,"swap":-0.10,"profit":0.52},
+		{"order_id":75721670,"symbol":"AUDUSD.p","type":"buy","vol":0.01,"opentime":"2021.04.14 17:32:06","closetime":"2021.04.29 03:12:32","commission":-0.07,"swap":-0.34,"profit":9.55},
+		{"order_id":75739704,"symbol":"GBPJPY.p","type":"sell","vol":0.11,"opentime":"2021.04.20 18:34:08","closetime":"2021.04.29 16:14:08","commission":-0.77,"swap":-4.36,"profit":-167.37}],
+	"closed_return":-158.67,
+	"closed_profit":-1.76,
+	"open_positions": [
+		{"order_id":74990211,"symbol":"AUDJPY.p","type":"sell","vol":0.01,"opentime":"2021.03.23 08:18:54","closetime":"0","commission":-0.07,"swap":-0.45,"profit":-8.87},
+		{"order_id":74990213,"symbol":"AUDJPY.p","type":"sell","vol":0.01,"opentime":"2021.03.23 08:18:00","closetime":"0","commission":-0.07,"swap":-0.45,"profit":-8.80},
+		{"order_id":75009497,"symbol":"AUDJPY.p","type":"sell","vol":0.01,"opentime":"2021.03.25 03:36:47","closetime":"0","commission":-0.07,"swap":-0.40,"profit":-18.19},
+		{"order_id":75009498,"symbol":"AUDJPY.p","type":"sell","vol":0.01,"opentime":"2021.03.25 03:36:47","closetime":"0","commission":-0.07,"swap":-0.40,"profit":-18.20},
+		{"order_id":75011826,"symbol":"AUDJPY.p","type":"sell","vol":0.01,"opentime":"2021.03.25 05:27:28","closetime":"0","commission":-0.07,"swap":-0.40,"profit":-15.94},
+		{"order_id":75011827,"symbol":"AUDJPY.p","type":"sell","vol":0.01,"opentime":"2021.03.25 05:27:29","closetime":"0","commission":-0.07,"swap":-0.40,"profit":-15.94},
+		{"order_id":75113534,"symbol":"AUDJPY.p","type":"sell","vol":0.01,"opentime":"2021.03.26 14:25:20","closetime":"0","commission":-0.07,"swap":-0.39,"profit":-10.42},
+		{"order_id":75113535,"symbol":"AUDJPY.p","type":"sell","vol":0.01,"opentime":"2021.03.26 14:25:21","closetime":"0","commission":-0.07,"swap":-0.39,"profit":-10.41},
+		{"order_id":75858171,"symbol":"AUDJPY.p","type":"sell","vol":0.01,"opentime":"2021.04.26 17:48:43","closetime":"0","commission":-0.07,"swap":-0.06,"profit":-3.52},
+		{"order_id":75858722,"symbol":"AUDJPY.p","type":"sell","vol":0.01,"opentime":"2021.04.26 18:06:22","closetime":"0","commission":-0.07,"swap":-0.06,"profit":-1.81},
+		{"order_id":75737571,"symbol":"AUDNZD.p","type":"sell","vol":0.11,"opentime":"2021.04.20 17:46:27","closetime":"0","commission":-0.77,"swap":-0.55,"profit":38.19},
+		{"order_id":75453393,"symbol":"EURGBP.p","type":"buy","vol":0.06,"opentime":"2021.04.08 19:54:07","closetime":"0","commission":-0.42,"swap":-6.16,"profit":7.28},
+		{"order_id":75700360,"symbol":"GBPUSD.p","type":"buy","vol":0.06,"opentime":"2021.04.19 13:57:04","closetime":"0","commission":-0.42,"swap":-2.34,"profit":14.28},
+		{"order_id":75618266,"symbol":"NZDCAD.p","type":"buy","vol":0.01,"opentime":"2021.04.07 17:28:01","closetime":"0","commission":-0.07,"swap":-0.20,"profit":1.36},
+		{"order_id":75637357,"symbol":"NZDCAD.p","type":"buy","vol":0.06,"opentime":"2021.04.15 17:49:40","closetime":"0","commission":-0.42,"swap":-0.56,"profit":-46.90},
+		{"order_id":75768028,"symbol":"NZDCAD.p","type":"buy","vol":0.01,"opentime":"2021.04.21 17:00:07","closetime":"0","commission":-0.07,"swap":-0.09,"profit":-13.02},
+		{"order_id":75768146,"symbol":"NZDCAD.p","type":"buy","vol":0.01,"opentime":"2021.04.21 17:01:05","closetime":"0","commission":-0.07,"swap":-0.09,"profit":-11.30},
+		{"order_id":75770809,"symbol":"NZDCAD.p","type":"buy","vol":0.01,"opentime":"2021.04.21 17:46:36","closetime":"0","commission":-0.07,"swap":-0.09,"profit":-8.58},
+		{"order_id":75806412,"symbol":"NZDCAD.p","type":"buy","vol":0.01,"opentime":"2021.04.22 21:15:08","closetime":"0","commission":-0.07,"swap":-0.07,"profit":-3.70},
+		{"order_id":75695438,"symbol":"USDJPY.p","type":"sell","vol":0.01,"opentime":"2021.04.08 14:34:23","closetime":"0","commission":-0.07,"swap":-0.61,"profit":2.79},
+		{"order_id":75827770,"symbol":"USDJPY.p","type":"sell","vol":0.01,"opentime":"2021.04.23 16:41:05","closetime":"0","commission":-0.07,"swap":-0.20,"profit":-11.77},
+		{"order_id":75830348,"symbol":"USDJPY.p","type":"sell","vol":0.01,"opentime":"2021.04.23 17:18:23","closetime":"0","commission":-0.07,"swap":-0.20,"profit":-9.29},
+		{"order_id":75861205,"symbol":"USDJPY.p","type":"sell","vol":0.01,"opentime":"2021.04.27 02:14:17","closetime":"0","commission":-0.07,"swap":-0.14,"profit":-6.80},
+		{"order_id":75887241,"symbol":"USDJPY.p","type":"sell","vol":0.01,"opentime":"2021.04.28 03:52:28","closetime":"0","commission":-0.07,"swap":-0.11,"profit":-0.90},
+		{"order_id":75933809,"symbol":"GBPJPY.p","type":"buy","vol":1.71,"opentime":"2021.04.29 16:14:08","closetime":"0","commission":-11.97,"swap":-3.19,"profit":-720.63},
+		{"order_id":75934815,"symbol":"NZDCAD.p","type":"buy","vol":0.05,"opentime":"2021.04.29 16:23:37","closetime":"0","commission":-0.35,"swap":-0.03,"profit":-3.70}],
+	"open_return":-918.57,
+	"open_profit":-10.40,
+	"account":{
+		"balance":8832.98,
+		"margin":716.76,
+		"equity":9908.21
+	}
+}
+
