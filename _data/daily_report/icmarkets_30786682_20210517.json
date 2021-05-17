@@ -1,0 +1,27 @@
+{
+	"update_time":"2021.05.18 00:00",
+	"date":"2021.05.17",
+	"closed_positions": [
+		{"order_id":236124408,"symbol":"USDCAD","type":"sell","vol":10.23,"opentime":"2021.05.14 15:38:59","closetime":"2021.05.17 20:10:46","commission":-71.61,"swap":-25.86,"profit":3957.76}],
+	"closed_return":3860.29,
+	"closed_profit":16.28,
+	"open_positions": [
+		{"order_id":235904669,"symbol":"AUDUSD","type":"sell","vol":3.83,"opentime":"2021.05.13 11:50:30","closetime":"0","commission":-26.81,"swap":-21.48,"profit":-2615.89},
+		{"order_id":228179581,"symbol":"EURUSD","type":"sell","vol":0.01,"opentime":"2021.03.12 12:08:13","closetime":"0","commission":-0.07,"swap":-0.09,"profit":-23.99},
+		{"order_id":231079510,"symbol":"EURUSD","type":"sell","vol":0.02,"opentime":"2021.04.05 17:01:47","closetime":"0","commission":-0.14,"swap":-0.25,"profit":-70.32},
+		{"order_id":231282952,"symbol":"EURUSD","type":"sell","vol":0.04,"opentime":"2021.04.07 00:07:49","closetime":"0","commission":-0.28,"swap":-0.48,"profit":-111.68},
+		{"order_id":232138872,"symbol":"EURUSD","type":"sell","vol":0.08,"opentime":"2021.04.14 05:25:31","closetime":"0","commission":-0.56,"swap":-0.67,"profit":-153.44},
+		{"order_id":232845562,"symbol":"EURUSD","type":"sell","vol":0.16,"opentime":"2021.04.20 06:40:02","closetime":"0","commission":-1.12,"swap":-1.38,"profit":-136.80},
+		{"order_id":235989978,"symbol":"GBPUSD","type":"sell","vol":0.63,"opentime":"2021.05.13 18:41:14","closetime":"0","commission":-4.41,"swap":-5.19,"profit":-713.79},
+		{"order_id":236075689,"symbol":"GBPUSD","type":"sell","vol":3.20,"opentime":"2021.05.14 09:54:42","closetime":"0","commission":-22.40,"swap":-17.60,"profit":-2336.00},
+		{"order_id":236075611,"symbol":"USDCNH","type":"sell","vol":3.14,"opentime":"2021.05.14 09:54:29","closetime":"0","commission":-21.98,"swap":2.68,"profit":-453.69},
+		{"order_id":236316653,"symbol":"GBPUSD","type":"sell","vol":6.40,"opentime":"2021.05.17 17:59:10","closetime":"0","commission":-44.80,"swap":-17.60,"profit":-1446.40}],
+	"open_return":-8246.63,
+	"open_profit":-29.91,
+	"account":{
+		"balance":27571.01,
+		"margin":6688.08,
+		"equity":19324.38
+	}
+}
+
