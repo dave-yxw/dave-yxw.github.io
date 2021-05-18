@@ -1,0 +1,28 @@
+{
+	"update_time":"2021.05.19 00:00",
+	"date":"2021.05.18",
+	"closed_positions": [
+		{"order_id":228179581,"symbol":"EURUSD","type":"sell","vol":0.01,"opentime":"2021.03.12 12:08:13","closetime":"2021.05.18 10:08:23","commission":-0.07,"swap":-0.09,"profit":-28.22},
+		{"order_id":231079510,"symbol":"EURUSD","type":"sell","vol":0.02,"opentime":"2021.04.05 17:01:47","closetime":"2021.05.18 10:08:24","commission":-0.14,"swap":-0.25,"profit":-78.76},
+		{"order_id":231282952,"symbol":"EURUSD","type":"sell","vol":0.04,"opentime":"2021.04.07 00:07:49","closetime":"2021.05.18 10:08:25","commission":-0.28,"swap":-0.48,"profit":-128.60},
+		{"order_id":232138872,"symbol":"EURUSD","type":"sell","vol":0.08,"opentime":"2021.04.14 05:25:31","closetime":"2021.05.18 10:08:26","commission":-0.56,"swap":-0.67,"profit":-187.36},
+		{"order_id":232845562,"symbol":"EURUSD","type":"sell","vol":0.16,"opentime":"2021.04.20 06:40:02","closetime":"2021.05.18 10:08:26","commission":-1.12,"swap":-1.38,"profit":-204.64},
+		{"order_id":235989978,"symbol":"GBPUSD","type":"sell","vol":0.63,"opentime":"2021.05.13 18:41:14","closetime":"2021.05.18 10:08:20","commission":-4.41,"swap":-5.19,"profit":-1049.58},
+		{"order_id":236075689,"symbol":"GBPUSD","type":"sell","vol":3.20,"opentime":"2021.05.14 09:54:42","closetime":"2021.05.18 10:08:23","commission":-22.40,"swap":-17.60,"profit":-4048.00},
+		{"order_id":236316653,"symbol":"GBPUSD","type":"sell","vol":6.40,"opentime":"2021.05.17 17:59:10","closetime":"2021.05.18 10:08:24","commission":-44.80,"swap":-17.60,"profit":-4883.20}],
+	"closed_return":-10725.40,
+	"closed_profit":-37.99,
+	"open_positions": [
+		{"order_id":236075611,"symbol":"USDCNH","type":"sell","vol":3.14,"opentime":"2021.05.14 09:54:29","closetime":"0","commission":-21.98,"swap":2.68,"profit":678.35},
+		{"order_id":235904669,"symbol":"AUDUSD","type":"sell","vol":3.83,"opentime":"2021.05.13 11:50:30","closetime":"0","commission":-26.81,"swap":-21.48,"profit":-3730.42},
+		{"order_id":236402365,"symbol":"EURUSD","type":"buy","vol":0.63,"opentime":"2021.05.18 10:08:22","closetime":"0","commission":-4.41,"swap":0.00,"profit":174.51},
+		{"order_id":236402313,"symbol":"GBPUSD","type":"buy","vol":23.03,"opentime":"2021.05.18 10:08:19","closetime":"0","commission":-161.21,"swap":0.00,"profit":-1957.55}],
+	"open_return":-5068.32,
+	"open_profit":-28.95,
+	"account":{
+		"balance":17504.66,
+		"margin":7280.23,
+		"equity":11777.29
+	}
+}
+
