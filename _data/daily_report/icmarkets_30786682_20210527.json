@@ -1,0 +1,18 @@
+{
+	"update_time":"2021.05.28 00:00",
+	"date":"2021.05.27",
+	"closed_positions": [],
+	"closed_return":0.00,
+	"closed_profit":0.00,
+	"open_positions": [
+		{"order_id":235904669,"symbol":"AUDUSD","type":"sell","vol":3.83,"opentime":"2021.05.13 11:50:30","closetime":"0","commission":-26.81,"swap":-100.67,"profit":-1731.16},
+		{"order_id":236402365,"symbol":"EURUSD","type":"buy","vol":0.63,"opentime":"2021.05.18 10:08:22","closetime":"0","commission":-4.41,"swap":-36.17,"profit":-2.52}],
+	"open_return":-1901.74,
+	"open_profit":-38.30,
+	"account":{
+		"balance":4965.06,
+		"margin":743.44,
+		"equity":3063.32
+	}
+}
+
