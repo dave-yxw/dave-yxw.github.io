@@ -1,0 +1,39 @@
+{
+	"update_time":"2021.06.17 00:00",
+	"date":"2021.06.16",
+	"closed_positions": [
+		{"order_id":239482822,"symbol":"USDCHF","type":"sell","vol":0.16,"opentime":"2021.06.14 01:06:16","closetime":"2021.06.15 10:30:54","commission":-1.12,"swap":-0.86,"profit":18.90},
+		{"order_id":239746995,"symbol":"USDCAD","type":"sell","vol":0.16,"opentime":"2021.06.15 19:02:25","closetime":"2021.06.16 19:00:11","commission":-1.12,"swap":-0.46,"profit":45.77},
+		{"order_id":239482230,"symbol":"USDCAD","type":"sell","vol":0.08,"opentime":"2021.06.14 01:00:40","closetime":"2021.06.16 19:08:27","commission":-0.56,"swap":-0.43,"profit":1.45},
+		{"order_id":239421009,"symbol":"USDCAD","type":"sell","vol":0.04,"opentime":"2021.06.11 16:57:44","closetime":"2021.06.16 19:08:28","commission":-0.28,"swap":-0.32,"profit":-10.72},
+		{"order_id":239288723,"symbol":"USDCAD","type":"sell","vol":0.02,"opentime":"2021.06.10 17:56:45","closetime":"2021.06.16 19:08:28","commission":-0.14,"swap":-0.21,"profit":-10.00},
+		{"order_id":238660390,"symbol":"USDCAD","type":"sell","vol":0.01,"opentime":"2021.06.04 16:09:31","closetime":"2021.06.16 19:08:28","commission":-0.07,"swap":-0.22,"profit":-6.47},
+		{"order_id":239789765,"symbol":"USDCNH","type":"buy","vol":0.16,"opentime":"2021.06.16 09:06:55","closetime":"2021.06.16 21:03:38","commission":-1.12,"swap":0.00,"profit":10.47},
+		{"order_id":236402365,"symbol":"EURUSD","type":"buy","vol":0.63,"opentime":"2021.05.18 10:08:22","closetime":"2021.06.16 21:14:42","commission":-4.41,"swap":-95.41,"profit":-966.42},
+		{"order_id":239637942,"symbol":"USDCNH","type":"buy","vol":0.08,"opentime":"2021.06.15 04:34:51","closetime":"2021.06.16 21:19:39","commission":-0.56,"swap":-0.58,"profit":21.46},
+		{"order_id":239606768,"symbol":"USDCNH","type":"buy","vol":0.04,"opentime":"2021.06.14 18:14:45","closetime":"2021.06.16 21:19:40","commission":-0.28,"swap":-0.48,"profit":8.03},
+		{"order_id":239565717,"symbol":"USDCNH","type":"buy","vol":0.02,"opentime":"2021.06.14 14:59:24","closetime":"2021.06.16 21:19:40","commission":-0.14,"swap":-0.23,"profit":2.78},
+		{"order_id":239533800,"symbol":"USDCNH","type":"buy","vol":0.01,"opentime":"2021.06.14 10:30:54","closetime":"2021.06.16 21:19:41","commission":-0.07,"swap":-0.12,"profit":0.75},
+		{"order_id":239281666,"symbol":"USDJPY","type":"sell","vol":0.63,"opentime":"2021.06.10 17:20:17","closetime":"2021.06.16 21:40:24","commission":-4.41,"swap":-8.56,"profit":-602.13},
+		{"order_id":239586595,"symbol":"USDJPY","type":"sell","vol":2.76,"opentime":"2021.06.14 16:39:53","closetime":"2021.06.16 21:40:25","commission":-19.32,"swap":-18.13,"profit":-1626.28}],
+	"closed_return":-3272.02,
+	"closed_profit":-44.32,
+	"open_positions": [
+		{"order_id":238638933,"symbol":"USDCHF","type":"sell","vol":0.01,"opentime":"2021.06.04 15:33:03","closetime":"0","commission":-0.07,"swap":-0.51,"profit":-1.75},
+		{"order_id":239359340,"symbol":"USDCHF","type":"sell","vol":0.02,"opentime":"2021.06.11 11:19:38","closetime":"0","commission":-0.14,"swap":-0.31,"profit":-14.57},
+		{"order_id":239371514,"symbol":"USDCHF","type":"sell","vol":0.04,"opentime":"2021.06.11 12:43:32","closetime":"0","commission":-0.28,"swap":-0.63,"profit":-24.58},
+		{"order_id":239402320,"symbol":"USDCHF","type":"sell","vol":0.08,"opentime":"2021.06.11 15:31:54","closetime":"0","commission":-0.56,"swap":-1.23,"profit":-39.75},
+		{"order_id":239686704,"symbol":"USDCHF","type":"sell","vol":0.16,"opentime":"2021.06.15 12:19:28","closetime":"0","commission":-1.12,"swap":-0.75,"profit":-58.91},
+		{"order_id":239877921,"symbol":"USDCHF","type":"buy","vol":0.63,"opentime":"2021.06.16 21:00:22","closetime":"0","commission":-4.41,"swap":0.00,"profit":204.79},
+		{"order_id":239900232,"symbol":"USDCHF","type":"buy","vol":0.01,"opentime":"2021.06.16 21:13:58","closetime":"0","commission":-0.07,"swap":0.00,"profit":1.25},
+		{"order_id":239900659,"symbol":"EURUSD","type":"sell","vol":3.83,"opentime":"2021.06.16 21:14:42","closetime":"0","commission":-26.81,"swap":0.00,"profit":1803.93},
+		{"order_id":239919683,"symbol":"USDJPY","type":"buy","vol":9.79,"opentime":"2021.06.16 21:40:24","closetime":"0","commission":-68.53,"swap":0.00,"profit":1963.13}],
+	"open_return":3728.12,
+	"open_profit":90.70,
+	"account":{
+		"balance":4110.25,
+		"margin":2880.40,
+		"equity":7781.97
+	}
+}
+
