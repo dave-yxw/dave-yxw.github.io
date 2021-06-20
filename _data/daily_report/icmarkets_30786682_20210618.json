@@ -1,0 +1,17 @@
+{
+	"update_time":"2021.06.21 00:06",
+	"date":"2021.06.18",
+	"closed_positions": [],
+	"closed_return":0.00,
+	"closed_profit":0.00,
+	"open_positions": [
+		{"order_id":239919683,"symbol":"USDJPY","type":"buy","vol":9.79,"opentime":"2021.06.16 21:40:24","closetime":"0","commission":-68.53,"swap":-68.64,"profit":-2469.49}],
+	"open_return":-2606.66,
+	"open_profit":-42.27,
+	"account":{
+		"balance":6167.34,
+		"margin":1958.00,
+		"equity":3560.68
+	}
+}
+
