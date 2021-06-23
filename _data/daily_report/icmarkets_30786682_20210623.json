@@ -1,0 +1,39 @@
+{
+	"update_time":"2021.06.24 00:00",
+	"date":"2021.06.23",
+	"closed_positions": [
+		{"order_id":240589208,"symbol":"USDCNH","type":"buy","vol":0.02,"opentime":"2021.06.22 01:58:01","closetime":"2021.06.22 09:00:36","commission":-0.14,"swap":0.00,"profit":2.86},
+		{"order_id":240719884,"symbol":"USDCAD","type":"sell","vol":3.83,"opentime":"2021.06.22 20:02:05","closetime":"2021.06.23 14:54:47","commission":-26.81,"swap":-10.96,"profit":1459.76},
+		{"order_id":240840716,"symbol":"USDCHF","type":"buy","vol":0.16,"opentime":"2021.06.23 16:52:02","closetime":"2021.06.23 18:01:33","commission":-1.12,"swap":0.00,"profit":21.81},
+		{"order_id":240825967,"symbol":"USDCHF","type":"buy","vol":0.08,"opentime":"2021.06.23 15:34:36","closetime":"2021.06.23 19:43:56","commission":-0.56,"swap":0.00,"profit":8.89},
+		{"order_id":240724644,"symbol":"USDCHF","type":"buy","vol":0.04,"opentime":"2021.06.22 21:11:57","closetime":"2021.06.23 19:43:56","commission":-0.28,"swap":0.00,"profit":-1.00},
+		{"order_id":240694353,"symbol":"USDCHF","type":"buy","vol":0.02,"opentime":"2021.06.22 17:05:52","closetime":"2021.06.23 19:43:56","commission":-0.14,"swap":0.00,"profit":-3.25}],
+	"closed_return":1449.06,
+	"closed_profit":140.96,
+	"open_positions": [
+		{"order_id":240445288,"symbol":"USDCNH","type":"buy","vol":0.01,"opentime":"2021.06.21 06:17:54","closetime":"0","commission":-0.07,"swap":-0.14,"profit":2.16},
+		{"order_id":240732705,"symbol":"USDCNH","type":"buy","vol":0.02,"opentime":"2021.06.22 22:09:44","closetime":"0","commission":-0.14,"swap":-0.14,"profit":2.73},
+		{"order_id":240837957,"symbol":"EURUSD","type":"sell","vol":0.16,"opentime":"2021.06.23 16:45:15","closetime":"0","commission":-1.12,"swap":0.00,"profit":44.16},
+		{"order_id":240775872,"symbol":"EURUSD","type":"sell","vol":0.08,"opentime":"2021.06.23 09:50:30","closetime":"0","commission":-0.56,"swap":0.00,"profit":0.80},
+		{"order_id":240603021,"symbol":"EURUSD","type":"sell","vol":0.04,"opentime":"2021.06.22 05:01:39","closetime":"0","commission":-0.28,"swap":-0.01,"profit":-10.60},
+		{"order_id":240486440,"symbol":"EURUSD","type":"sell","vol":0.02,"opentime":"2021.06.21 10:49:08","closetime":"0","commission":-0.14,"swap":-0.02,"profit":-10.60},
+		{"order_id":240447046,"symbol":"AUDUSD","type":"sell","vol":0.01,"opentime":"2021.06.21 06:29:29","closetime":"0","commission":-0.07,"swap":-0.04,"profit":-8.34},
+		{"order_id":240684432,"symbol":"AUDUSD","type":"sell","vol":0.02,"opentime":"2021.06.22 16:30:50","closetime":"0","commission":-0.14,"swap":-0.04,"profit":-12.92},
+		{"order_id":240707229,"symbol":"AUDUSD","type":"sell","vol":0.04,"opentime":"2021.06.22 18:31:36","closetime":"0","commission":-0.28,"swap":-0.09,"profit":-21.32},
+		{"order_id":240755752,"symbol":"AUDUSD","type":"sell","vol":0.08,"opentime":"2021.06.23 04:47:04","closetime":"0","commission":-0.56,"swap":0.00,"profit":-30.64},
+		{"order_id":240790924,"symbol":"AUDUSD","type":"sell","vol":0.16,"opentime":"2021.06.23 11:04:33","closetime":"0","commission":-1.12,"swap":0.00,"profit":-37.12},
+		{"order_id":240446454,"symbol":"EURUSD","type":"sell","vol":0.01,"opentime":"2021.06.21 06:26:28","closetime":"0","commission":-0.07,"swap":0.00,"profit":-7.00},
+		{"order_id":240479080,"symbol":"USDCHF","type":"buy","vol":0.01,"opentime":"2021.06.21 10:17:47","closetime":"0","commission":-0.07,"swap":0.00,"profit":-5.22},
+		{"order_id":240837000,"symbol":"USDCAD","type":"sell","vol":0.01,"opentime":"2021.06.23 16:41:49","closetime":"0","commission":-0.07,"swap":0.00,"profit":-3.33},
+		{"order_id":240845250,"symbol":"USDCNH","type":"buy","vol":0.04,"opentime":"2021.06.23 17:09:29","closetime":"0","commission":-0.28,"swap":0.00,"profit":2.93},
+		{"order_id":240848796,"symbol":"USDCAD","type":"sell","vol":0.02,"opentime":"2021.06.23 17:37:49","closetime":"0","commission":-0.14,"swap":0.00,"profit":-4.89},
+		{"order_id":240855367,"symbol":"USDCAD","type":"sell","vol":0.04,"opentime":"2021.06.23 18:10:32","closetime":"0","commission":-0.28,"swap":0.00,"profit":-6.21}],
+	"open_return":-111.28,
+	"open_profit":-4.49,
+	"account":{
+		"balance":2477.09,
+		"margin":105.14,
+		"equity":2339.78
+	}
+}
+
