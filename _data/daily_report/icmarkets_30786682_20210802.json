@@ -1,0 +1,27 @@
+{
+	"update_time":"2021.08.03 00:00",
+	"date":"2021.08.02",
+	"closed_positions": [],
+	"closed_return":0.00,
+	"closed_profit":0.00,
+	"open_positions": [
+		{"order_id":245203326,"symbol":"AUDUSD","type":"buy","vol":0.63,"opentime":"2021.07.29 18:04:53","closetime":"0","commission":-4.41,"swap":-3.12,"profit":-297.36},
+		{"order_id":245312434,"symbol":"AUDUSD","type":"buy","vol":2.91,"opentime":"2021.07.30 15:53:54","closetime":"0","commission":-20.37,"swap":-7.22,"profit":-206.61},
+		{"order_id":245281266,"symbol":"EURUSD","type":"buy","vol":0.63,"opentime":"2021.07.30 11:57:31","closetime":"0","commission":-4.41,"swap":-3.29,"profit":-215.46},
+		{"order_id":241533923,"symbol":"USDCHF","type":"buy","vol":0.01,"opentime":"2021.06.30 15:13:08","closetime":"0","commission":-0.07,"swap":0.01,"profit":-20.39},
+		{"order_id":244704782,"symbol":"USDCHF","type":"buy","vol":0.02,"opentime":"2021.07.26 17:01:26","closetime":"0","commission":-0.14,"swap":0.01,"profit":-26.00},
+		{"order_id":244838576,"symbol":"USDCHF","type":"buy","vol":0.04,"opentime":"2021.07.27 15:31:33","closetime":"0","commission":-0.28,"swap":0.01,"profit":-40.38},
+		{"order_id":245066705,"symbol":"USDCHF","type":"buy","vol":0.08,"opentime":"2021.07.28 21:42:56","closetime":"0","commission":-0.56,"swap":0.05,"profit":-57.08},
+		{"order_id":245223542,"symbol":"USDCHF","type":"buy","vol":0.16,"opentime":"2021.07.29 22:52:37","closetime":"0","commission":-1.12,"swap":0.04,"profit":-8.31},
+		{"order_id":245251482,"symbol":"USDCNH","type":"sell","vol":0.01,"opentime":"2021.07.30 05:39:19","closetime":"0","commission":-0.07,"swap":0.02,"profit":-2.00},
+		{"order_id":245288733,"symbol":"USDCNH","type":"sell","vol":0.02,"opentime":"2021.07.30 13:02:40","closetime":"0","commission":-0.14,"swap":0.03,"profit":-1.40},
+		{"order_id":245290983,"symbol":"USDCNH","type":"sell","vol":0.04,"opentime":"2021.07.30 13:17:01","closetime":"0","commission":-0.28,"swap":0.06,"profit":3.04}],
+	"open_return":-917.20,
+	"open_profit":-20.17,
+	"account":{
+		"balance":4547.28,
+		"margin":803.85,
+		"equity":3630.08
+	}
+}
+
