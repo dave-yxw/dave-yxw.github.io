@@ -1,0 +1,35 @@
+{
+	"update_time":"2021.08.09 00:03",
+	"date":"2021.08.06",
+	"closed_positions": [
+		{"order_id":241533923,"symbol":"USDCHF","type":"buy","vol":0.01,"opentime":"2021.06.30 15:13:08","closetime":"2021.08.06 15:52:51","commission":-0.07,"swap":0.06,"profit":-14.45},
+		{"order_id":244704782,"symbol":"USDCHF","type":"buy","vol":0.02,"opentime":"2021.07.26 17:01:26","closetime":"2021.08.06 15:52:51","commission":-0.14,"swap":0.10,"profit":-14.19},
+		{"order_id":244838576,"symbol":"USDCHF","type":"buy","vol":0.04,"opentime":"2021.07.27 15:31:33","closetime":"2021.08.06 15:52:50","commission":-0.28,"swap":0.20,"profit":-16.74},
+		{"order_id":245066705,"symbol":"USDCHF","type":"buy","vol":0.08,"opentime":"2021.07.28 21:42:56","closetime":"2021.08.06 15:52:50","commission":-0.56,"swap":0.42,"profit":-9.93},
+		{"order_id":245223542,"symbol":"USDCHF","type":"buy","vol":0.16,"opentime":"2021.07.29 22:52:37","closetime":"2021.08.06 15:52:49","commission":-1.12,"swap":0.80,"profit":85.21},
+		{"order_id":245281266,"symbol":"EURUSD","type":"buy","vol":0.63,"opentime":"2021.07.30 11:57:31","closetime":"2021.08.06 17:49:45","commission":-4.41,"swap":-23.74,"profit":-931.77},
+		{"order_id":245577658,"symbol":"USDCAD","type":"buy","vol":0.01,"opentime":"2021.08.03 15:38:53","closetime":"2021.08.06 15:30:15","commission":-0.07,"swap":-0.11,"profit":-1.00},
+		{"order_id":245721716,"symbol":"USDCAD","type":"buy","vol":0.02,"opentime":"2021.08.04 17:44:07","closetime":"2021.08.06 15:30:14","commission":-0.14,"swap":-0.17,"profit":-2.59},
+		{"order_id":245739641,"symbol":"EURUSD","type":"buy","vol":3.20,"opentime":"2021.08.04 19:58:27","closetime":"2021.08.06 17:49:46","commission":-22.40,"swap":-69.76,"profit":-2617.60},
+		{"order_id":245772047,"symbol":"USDCAD","type":"buy","vol":0.04,"opentime":"2021.08.05 09:25:05","closetime":"2021.08.06 15:30:13","commission":-0.28,"swap":-0.09,"profit":-1.92},
+		{"order_id":245799674,"symbol":"USDCAD","type":"buy","vol":0.08,"opentime":"2021.08.05 12:27:25","closetime":"2021.08.06 15:30:13","commission":-0.56,"swap":-0.17,"profit":5.69},
+		{"order_id":245844042,"symbol":"USDCAD","type":"buy","vol":0.16,"opentime":"2021.08.05 16:58:35","closetime":"2021.08.06 12:20:38","commission":-1.12,"swap":-0.35,"profit":19.44},
+		{"order_id":245988016,"symbol":"EURUSD","type":"sell","vol":10.23,"opentime":"2021.08.06 17:49:45","closetime":"2021.08.06 17:51:56","commission":-71.61,"swap":0.00,"profit":-368.28}],
+	"closed_return":-4063.70,
+	"closed_profit":-75.68,
+	"open_positions": [
+		{"order_id":245999061,"symbol":"USDCAD","type":"buy","vol":0.02,"opentime":"2021.08.06 19:06:34","closetime":"0","commission":-0.14,"swap":-0.04,"profit":-2.73},
+		{"order_id":245990346,"symbol":"USDCHF","type":"buy","vol":0.01,"opentime":"2021.08.06 17:59:22","closetime":"0","commission":-0.07,"swap":0.01,"profit":-0.66},
+		{"order_id":245251482,"symbol":"USDCNH","type":"sell","vol":0.01,"opentime":"2021.07.30 05:39:19","closetime":"0","commission":-0.07,"swap":0.21,"profit":-4.93},
+		{"order_id":245720105,"symbol":"USDCNH","type":"sell","vol":0.02,"opentime":"2021.08.04 17:36:27","closetime":"0","commission":-0.14,"swap":0.26,"profit":-6.95},
+		{"order_id":245929547,"symbol":"USDCNH","type":"sell","vol":0.04,"opentime":"2021.08.06 15:20:35","closetime":"0","commission":-0.28,"swap":0.11,"profit":-10.95},
+		{"order_id":245954724,"symbol":"USDCNH","type":"sell","vol":0.08,"opentime":"2021.08.06 15:53:45","closetime":"0","commission":-0.56,"swap":0.21,"profit":-13.10}],
+	"open_return":-39.82,
+	"open_profit":-3.05,
+	"account":{
+		"balance":1305.92,
+		"margin":156.00,
+		"equity":1266.10
+	}
+}
+
